@@ -1,0 +1,250 @@
+
+
+	body {
+
+		margin: 0;
+
+	}
+
+	#slide1 {
+
+		width: 100%;
+		height:700px;
+		display:block;
+
+	}
+		
+	#slide1 img {
+
+		width: 100%;
+		height:700px;
+		
+
+	}
+
+	#slide2 {
+
+		width: 100%;
+		height:700px;
+		display:none;
+
+	}
+		
+	#slide2 img {
+
+		width: 100%;
+		height:700px;
+		
+	}
+		
+	#slide3 {
+
+		width: 100%;
+		height:700px;
+		display:none;
+
+	}	
+
+	#slide3 img {
+
+		width: 100%;
+		height:700px;
+		
+	}
+
+	#slide4 {
+
+		width: 100%;
+		height:700px;
+		display:none;
+
+	}	
+
+	#slide4 img {
+
+		width: 100%;
+		height:700px;
+		
+	}
+
+	#slide5 {
+
+		width: 100%;
+		height:700px;
+		display:none;
+
+	}	
+
+	#slide5 img {
+
+		width: 100%;
+		height:700px;
+		
+	}
+
+	#slide6 {
+
+		width: 100%;
+		height:700px;
+		display:none;
+
+	}	
+
+	#slide6 img {
+
+		width: 100%;
+		height:700px;
+		
+	}
+				
+	.head {
+
+		background-color: lightgreen;
+		padding: 1px;
+		min-width:300px;	
+
+	}
+
+		
+	.header {
+				 
+		background-color: lightgreen;
+		padding: 0px;
+		text-align: center;
+				
+	}
+				
+
+				
+	.loginfo {
+
+		background-color: lightgreen;
+		padding: 0px;
+		text-align: right;
+				
+	}
+
+				 
+	.search {
+		
+		width: 10%; 
+		min-width: 100px;
+		padding: 8px;
+		margin-left: 61%;
+				  
+	}
+				
+	.foter {
+			  
+		overflow: hidden;
+		background-color: pink;
+		text-align: left;
+		padding: 6px;
+		min-width: 300px;
+				  
+	}
+
+	.sign_up {
+
+		background-color: white; 
+		width: 100%; 
+		height: 50%; 
+		min-height: 500px;
+		min-width: 300px;
+				
+	}
+				
+	.sign_up tr {
+				
+		text-align:left;
+				
+	}
+				
+	.menu {
+		
+		background-color: black;
+		width: 100%;
+		height: auto;
+		display: block;
+		border: 0.1px solid white;
+				
+	}
+				
+	.menu ul {
+					
+		list-style-type: none;
+		overflow: hidden;
+				
+	}
+				
+	.menu ul li {
+					
+		float: left;
+		display: inline;
+		border-right: 3px solid #000;
+					
+	}
+				
+	.menu ul li:first-child {
+				  
+		border-left: 3px solid #000;
+				
+	}
+				
+	.menu ul li a {
+					
+		color: white;
+		text-decoration: none;
+		background: none;
+		font-size: 20px;
+		font-weight: bold;
+		display: block;
+		text-align: left;
+		padding: 4px 6px;
+				
+	}
+				
+
+	.menu ul li a:hover {
+					
+		background: lightgreen;
+
+	}
+				
+	li.dropdown {
+				
+		display: inline-block;
+				
+	}
+				
+	.dropdown-content {
+		
+		display: none;
+		position: absolute;
+		background-color: black;
+		min-width: 160px;
+		box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+		z-index: 1;
+				
+	}
+				
+	.dropdown:hover .dropdown-content {
+				  
+		display: block;
+				
+	}
+	
+	.button {
+	  background-color: #4CAF50;
+	  width: 250px;
+	  border: none;
+	  color: white;
+	  padding: 15px 32px;
+	  text-align: center;
+	  text-decoration: none;
+	  display: inline-block;
+	  font-size: 16px;
+	  margin: 4px 2px;
+	  cursor: pointer;
+	}
+
