@@ -1,4 +1,4 @@
-# Quiz-Game
+# Private Tutor Finder
 
 """
 Created on Tue Oct 23 2018
